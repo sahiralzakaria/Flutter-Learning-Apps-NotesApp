@@ -5,7 +5,7 @@ import 'package:noteapp/models/note_model.dart';
 import 'package:noteapp/widgets/custom_note_item.dart';
 
 class NotesListView extends StatelessWidget {
-  const NotesListView({super.key});
+  const NotesListView({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
