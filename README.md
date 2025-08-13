@@ -33,8 +33,9 @@ A simple and elegant **Notes Application** built with **Flutter**, allowing user
 
 ---
 
-## 📂 Project Structure  
 
+## 📂 Project Structure  
+```plaintext
 lib/
 ├── cubits/
 │   ├── add_note_cubit/
@@ -70,7 +71,6 @@ lib/
 ├── main.dart
 └── simple_bloc_observer.dart
 
-
 ---
 
 ## 📝 How to Use
@@ -100,3 +100,7 @@ lib/
 
 ---
 
+<div align="center">
+  <p>Made with ❤️ by <strong>Sahir Zakaria</strong></p>
+  <p><em>Happy Coding! 🚀</em></p>
+</div>
