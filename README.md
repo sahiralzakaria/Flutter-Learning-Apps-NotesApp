@@ -34,7 +34,6 @@ A simple and elegant **Notes Application** built with **Flutter**, allowing user
 
 ---
 
-
 ## 📂 Project Structure  
 ```
 lib/
