@@ -3,7 +3,6 @@ A simple and elegant **Notes Application** built with **Flutter**, allowing user
 
 ---
 
-
 ## 🚀 Features  
 - 🖊 **Add Notes**: Create new notes with custom text and background colors  
 - 🎨 **Custom Colors**: Choose background colors for your notes  
