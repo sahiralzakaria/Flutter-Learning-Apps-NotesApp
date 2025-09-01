@@ -92,7 +92,6 @@ lib/
    flutter run
    ```
 
-
 ---
 
 ## 👨‍💻 Author
