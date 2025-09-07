@@ -1,6 +1,7 @@
 # 📝 Notes App - Flutter  
 A simple and elegant **Notes Application** built with **Flutter**, allowing users to easily write, edit, and organize their notes locally. The app stores data directly on the device using **Hive**, supports custom background colors for notes, and enables full editing and deletion functionality. This project was created as part of my **Flutter learning journey**, with a focus on **clean code practices** and using modern state management with **Cubit**.  
 
+
 ---
 
 ## 🚀 Features  
