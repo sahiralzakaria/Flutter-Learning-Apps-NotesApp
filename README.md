@@ -90,8 +90,6 @@ lib/
    ```bash
    flutter run
    ```
-
-
 ---
 
 ## 👨‍💻 Author
