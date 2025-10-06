@@ -14,7 +14,6 @@ A simple and elegant **Notes Application** built with **Flutter**, allowing user
 
 ---
 
-
 ## 📸 App Screenshots  
 <p align="center">  
   <img src="assets/temp/1.png" width="250" />  
