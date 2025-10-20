@@ -21,6 +21,7 @@ A simple and elegant **Notes Application** built with **Flutter**, allowing user
   <img src="assets/temp/3.png" width="250" />  
 </p>  
 
+
 ---
 
 ## 🛠️ Technologies Used  
