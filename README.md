@@ -22,6 +22,7 @@ A simple and elegant **Notes Application** built with **Flutter**, allowing user
 </p>  
 
 
+
 ---
 
 ## 🛠️ Technologies Used  
